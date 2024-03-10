@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="640b284e-60f4-4137-9d01-76297e3c8ac7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LibraryManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Admin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Admin/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Admin/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Admin/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Admin/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Admin/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Admin/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Library/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Library/customer_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Library/owner_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Library/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Library/staff_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Library/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Library/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Library/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/animatecss/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/dropdown/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/dropdown/js/navbar-dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/formoid/formoid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/logo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1452421822248-d4c2b47f0c81.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1456513080510-7bf3a84b82f8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1457369804613-52c61a468e7d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1463320726281-696a485928c7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1471107340929-a87cd0f5b5f3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1495446815901-a7297e633e8d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1497633762265-9d179a990aa6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1513185041617-8ab03f83d6c5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1514593214839-ce1849100055.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1514894780887-121968d00567.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1519682337058-a94d519337bc.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1522091066250-665186289043.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1525614686090-7a3108e3758e.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1545803928-04e3f4cdd4ed.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1548130149-a6955bd8d6f9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1586185018558-ea8f4b4c514f.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1589571894960-20bbe2828d0a.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1594296306217-9a2e249baaf1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1596646285603-e5f9bbfa524a.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1643029950351-6ae7f69186fc.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/images/photo-1671212041190-5e1c0c509f11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/imagesloaded/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/masonry/masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/mobirise/css/additional.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/parallax/jarallax.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/parallax/jarallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/scrollgallery/scroll-gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/smoothscroll/smooth-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/socicon/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/socicon/fonts/socicon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/socicon/fonts/socicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/socicon/fonts/socicon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/socicon/fonts/socicon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/socicon/fonts/socicon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/theme/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/theme/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/web/assets/mobirise-icons2/mobirise2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/web/assets/mobirise-icons2/mobirise2.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/web/assets/mobirise-icons2/mobirise2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/web/assets/mobirise-icons2/mobirise2.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/web/assets/mobirise-icons2/mobirise2.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/static/assets/ytplayer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/templates/base.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dOROtz1Ow5aoi6Y7t90Pw6OlwH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/rock-paper"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learnathon\LibraryManagement\Library\static\assets\bootstrap\css" />
+      <recent name="D:\learnathon\LibraryManagement\Library\static\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\learnathon\LibraryManagement\Library\static" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="640b284e-60f4-4137-9d01-76297e3c8ac7" name="Changes" comment="" />
+      <created>1709877111664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709877111664</updated>
+    </task>
+    <servers />
+  </component>
+</project>
